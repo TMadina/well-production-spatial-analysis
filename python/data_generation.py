@@ -1,3 +1,4 @@
+# Generate synthetic depth and production data for wells
 import random
 
 layer = iface.activeLayer()
