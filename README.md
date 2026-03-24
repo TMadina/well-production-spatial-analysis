@@ -17,4 +17,8 @@ This project demonstrates spatial and statistical analysis of synthetic well dat
 - Visualized spatial distribution of well depth and production
 - Identified high- and low-production clusters
 - Found positive correlation between depth and production
-- 
+ 
+# Well Production Project
+
+## Depth Map
+![Depth Map](images/map.png)
